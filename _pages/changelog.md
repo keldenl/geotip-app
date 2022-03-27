@@ -37,6 +37,7 @@ Big improvements around pins on the map, as well as various (quite big) reported
     - Before (left) and After (right) 
     - {:.changelogImg} ![](../assets/changelog/0.2/old-tutorial.jpeg)![](../assets/changelog/0.2/new-tutorial.png)
 - Fixed a bug where the profile icon initials & colors for tip didn't actually reflect the creator (it actually used your own if you're logged in)
+- Long pressing to create a pin now does not vibrate twice
 - Fixed the "write a review" link to properly link to the (future) app store page
 
 #### Known  Issues
