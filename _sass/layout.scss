@@ -48,6 +48,18 @@
 		"f f f f f f f f f f f f";
 }
 
+.changelogImg {
+	display: flex;
+	gap: 10px;
+}
+
+.changelogImg img {
+	width: 100%;
+	max-width: 300px!important;
+	height: auto;
+	object-fit: cover;
+}
+
 .subPageContainer {
 	grid-template-rows: 115px auto auto auto;
 	background-color: #fff;
