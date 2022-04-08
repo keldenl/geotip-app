@@ -11,6 +11,32 @@ Follow along to see what changes were introduced in each GeoTip version that is 
 ### `Beta Releases`
 # **Version 0**
 Version 0 will represent the pre-release closed and open beta testing versions.
+
+
+## Version 0.3
+Smaller bug fixes and improvements as GeoTip preps for public beta launch
+#### What's New
+- Update app initial zoom level and user location "focus" to be further away
+- Make "What's FourWord?" link under the search bar more clickable
+- Update [GeoTip landing website](/) to have better introduction content
+
+#### Bug Fixes
+- Closing a single tip page now properly deselects the tip pin on the map
+- Updating your Profile Icon now automatically updates the posts you're viewing with your new Profile Icon
+
+#### Known  Issues
+- Searching for a location and tapping on it sometimes doesn't take you to the pin properly
+
+#### Coming Soon
+- Exploring how to more easily create tips at existing landmarks (like restaurants) – Thanks @allison!
+- New page that shows all the tips you've posted – Thanks @kevin!
+- Options to sort tips (New vs. Best)
+- Make a more obvious "Create Tip" button – Thanks @alex!
+- Add a graphic for when there are no recent searches – Thanks @alex!
+- Filtering through tips at a location (keyword search) – Thanks @alex!
+
+<br>
+
 ## Version 0.2
 Big improvements around pins on the map, as well as various (quite big) reported bug fixes.
 #### What's New

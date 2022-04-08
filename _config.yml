@@ -35,9 +35,38 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  # - title                                 : GitHub Pages Jekyll Theme
-  #   description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-  #   fontawesome_icon_name                 : magic
+# - There isn’t a landmark requirement, which means a restaurant or location name isn't required to make a tip at that certain location.
+#     - A good example of utilizing this is adding tips in specific areas in a mountain or a hike, or a general tip that describes a whole area/neighborhood
+# - Search for a specific landmark to find tips ahead of time of places you’re going to go (supported by OpenMaps) 
+# - Upvote existing tips to increase legitimacy of that tip
+# - Report tips that are spam / violations of terms of service
+# - Sign in and create an account to do all actions above (viewing doesn’t require an account) securely with “Sign in with Apple” 
+# - Introduction of “FourWord” – a brand new alternate latitude/longitude representation with 4 english words
+#     - Use this to search for and create tips at easily sharable locations
+
+  - title                                 : Quickly create local tips
+    description                           : View and create short tips based off your current or a specific location
+    fontawesome_icon_name                 : sticky-note
+
+  - title                                 : Flexibile and unlimited possibilities
+    description                           : No place name is required – tips aren't associated with a specific restaurant or place
+    fontawesome_icon_name                 : magic
+    
+  - title                                 : Sign in with Apple
+    description                           : Sign in securely with Apple to create and upvote tips
+    fontawesome_icon_name                 : user
+    
+  - title                                 : Introducing "FourWord"
+    description                           : New alternate latitude/longitude representation with 4 english words – supported throughout the app
+    fontawesome_icon_name                 : map
+    
+  - title                                 : Get useful tips
+    description                           : Upvote existing tips to increase legitimacy
+    fontawesome_icon_name                 : arrow-up
+    
+  - title                                 : Scout ahead
+    description                           : Search for places you're visiting to find tips ahead of time
+    fontawesome_icon_name                 : search
     
   # - title                                 : iPhone Device Preview
   #   description                           : Preview your app in the context of an iPhone device. Five different device colors included.
