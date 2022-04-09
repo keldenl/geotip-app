@@ -12,8 +12,31 @@ Follow along to see what changes were introduced in each GeoTip version that is 
 # **Version 0**
 Version 0 will represent the pre-release closed and open beta testing versions.
 
+## Version 0.4 (4/10/2022)
+Introducing USER PROFILES!!! Final testing & some small QoL improvements before public beta. Added dates to these release changelogs.
+#### What's New
+- New page that shows all the tips you've posted – Thanks @kevin!
+    - {:.changelogImg} ![](../assets/changelog/0.4/new-profile-page.png)
+- Added new "View on map" option when viewing a tip
+- App now only shows last initial (as opposed to user full name) for privacy purposes (settings for this coming soon)
 
-## Version 0.3
+#### Bug Fixes
+- Fixed a bug where creating a tip from a dropped pin without logging in works – it shouldn't
+
+#### Known Issues
+- Searching for a location and tapping on it sometimes doesn't take you to the pin properly
+
+#### Coming Soon
+- Options to select how you want to display your name
+- Options to sort tips (New vs. Best)
+- Filtering through tips at a location (keyword search) – Thanks @alex!
+- Make a more obvious "Create Tip" button – Thanks @alex!
+- Add a graphic for when there are no recent searches – Thanks @alex!
+- Exploring how to more easily create tips at existing landmarks (like restaurants) – Thanks @allison!
+
+<br>
+
+## Version 0.3 (4/8/2022)
 Smaller bug fixes and improvements as GeoTip preps for public beta launch
 #### What's New
 - Update app initial zoom level and user location "focus" to be further away
@@ -24,7 +47,7 @@ Smaller bug fixes and improvements as GeoTip preps for public beta launch
 - Closing a single tip page now properly deselects the tip pin on the map
 - Updating your Profile Icon now automatically updates the posts you're viewing with your new Profile Icon
 
-#### Known  Issues
+#### Known Issues
 - Searching for a location and tapping on it sometimes doesn't take you to the pin properly
 
 #### Coming Soon
@@ -37,7 +60,7 @@ Smaller bug fixes and improvements as GeoTip preps for public beta launch
 
 <br>
 
-## Version 0.2
+## Version 0.2 (3/27/2022)
 Big improvements around pins on the map, as well as various (quite big) reported bug fixes.
 #### What's New
 - Improve map "pin" (for location and tips) design to be less repetitive (smaller circle when viewing pin)
@@ -66,7 +89,7 @@ Big improvements around pins on the map, as well as various (quite big) reported
 - Long pressing to create a pin now does not vibrate twice
 - Fixed the "Leave a review" link to properly link to the (future) app store page
 
-#### Known  Issues
+#### Known Issues
 - Searching for a location and tapping on it sometimes doesn't take you to the pin properly
 
 #### Coming Soon
@@ -80,7 +103,7 @@ Big improvements around pins on the map, as well as various (quite big) reported
 
 <br>
 
-## **Version 0.1**
+## **Version 0.1 (3/22/2022)**
 This is the first beta test version to the app! Thank you everybody who signed up to test it on TestFlight :)
 
 #### What's New
