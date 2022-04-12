@@ -12,7 +12,32 @@ Follow along to see what changes were introduced in each GeoTip version that is 
 # **Version 0**
 Version 0 will represent the pre-release closed and open beta testing versions.
 
-## Version 0.4 (4/10/2022)
+
+## Version 0.5 (4/12/2022)
+OFFICALLY first public beta version! This release stabilizes the app as well as improves security with all the actions taken in the app.
+#### What's New
+- OPEN FOR LIMITED PUBLIC BETA TESTING!!
+- [No visual difference] All backend requests are much more secure, and now protected on multiple levels of authentication (in the code)
+- Updated landing page tagline, attached a video instead of just a screenshot on the demo iPhone
+
+#### Bug Fixes
+- Fixed a bug where editing posts no longer remove your user profile weirdly
+
+#### Known Issues
+- Searching for a location and tapping on it sometimes doesn't take you to the pin properly
+
+#### Coming Soon
+- Options to select how you want to display your name
+- Options to sort tips (New vs. Best)
+- Filtering through tips at a location (keyword search) – Thanks @alex!
+- Make a more obvious "Create Tip" button – Thanks @alex!
+- Add a graphic for when there are no recent searches – Thanks @alex!
+- Exploring how to more easily create tips at existing landmarks (like restaurants) – Thanks @allison!
+
+<br>
+
+
+## Version 0.4 (4/9/2022)
 Introducing USER PROFILES!!! Final testing & some small QoL improvements before public beta. Added dates to these release changelogs.
 #### What's New
 - New page that shows all the tips you've posted – Thanks @kevin!
