@@ -13,6 +13,17 @@ Follow along to see what changes were introduced in each GeoTip version that is 
 Version 0 will represent the pre-release closed and open beta testing versions.
 
 
+
+<!-- 0.6
+- fix initial load not properly searching at your location
+
+- hide tip after deleting it
+- fix liking from another person's profile doesn't refresh the upvoting
+- add new tip posts to the top instead of bottom
+
+ -->
+
+
 ## Version 0.5 (4/12/2022)
 OFFICALLY first public beta version! This release stabilizes the app as well as improves security with all the actions taken in the app.
 #### What's New
