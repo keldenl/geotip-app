@@ -25,9 +25,9 @@ Version 0 will represent the pre-release closed and open beta testing versions.
 
 
 ## Version 0.5 (4/12/2022)
-OFFICALLY first public beta version! This release stabilizes the app as well as improves security with all the actions taken in the app.
+OFFICALLY first public beta version!!!! [DOWNLOAD IT HERE](https://testflight.apple.com/join/kCeS9Hut). <br/> This release stabilizes the app as well as improves security throughout the app.
 #### What's New
-- OPEN FOR LIMITED PUBLIC BETA TESTING!!
+- OPEN FOR LIMITED PUBLIC BETA TESTING!! [Click here to get started!!](https://testflight.apple.com/join/kCeS9Hut)
 - [No visual difference] All backend requests are much more secure, and now protected on multiple levels of authentication (in the code)
 - Updated landing page tagline, attached a video instead of just a screenshot on the demo iPhone
 
