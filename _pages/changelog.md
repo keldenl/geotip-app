@@ -14,17 +14,37 @@ Version 0 will represent the pre-release closed and open beta testing versions.
 
 
 
-<!-- 0.6
-- fix initial load not properly searching at your location
 
-- hide tip after deleting it
-- fix liking from another person's profile doesn't refresh the upvoting
-- add new tip posts to the top instead of bottom
+## Version 0.6 (4/19/2022)
+Continued [public beta testing](https://testflight.apple.com/join/kCeS9Hut). <br/> 
+This release bundles a ton of QoL (quality of life) improvements, some design tweaks and sorting.
+#### What's New
+- Tips view can now be sorted by NEW or BEST
+- You can now upvote the tip you're viewing
+- Action button (View on Map and Upvote) now moved higher up for easier access when viewing a tip
+- Removed upvoting tips on user profile
+- Upvotes throughout the map is now red (matching the red icon theme)
+- Errors now alert me (Kelden), so turnaround time for errors should be faster
 
- -->
+#### Bug Fixes
+- Fixed a bug where tips won't load at your location when you first open the app
+- Fixed a bug where deleting a tip doesn't dismiss the tip view you were on previously, showing an infinite loading spinner
+- Fixed "no tips" text for user profiles when they have no tips
+- QoL: When creating a new tip, it shows on the top (instead of the bottom)
+- QoL: Creating a tip after viewing a dropped pin now takes you back to your tips list (instead of going back to the dropped pin)
+- QoL: Pressing "View on Map" on a tip now automatically scroll the tip sheet to the top (it looked weird / cut off before)
+- QoL: Report sheet goes away after successfully reporting a tip
+
+#### Known Issues
+_None_
+#### Coming Soon
+- Options to select how you want to display your name
+- Filtering through tips at a location (keyword search) – Thanks @alex!
+- Add a graphic for when there are no recent searches – Thanks @alex!
+- Exploring how to more easily create tips at existing landmarks (like restaurants) – Thanks @allison!
 
 
-## Version 0.5 (4/12/2022)
+## Version 0.5 (4/11/2022)
 OFFICALLY first public beta version!!!! [DOWNLOAD IT HERE](https://testflight.apple.com/join/kCeS9Hut). <br/> This release stabilizes the app as well as improves security throughout the app.
 #### What's New
 - OPEN FOR LIMITED PUBLIC BETA TESTING!! [Click here to get started!!](https://testflight.apple.com/join/kCeS9Hut)
